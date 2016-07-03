@@ -1,0 +1,57 @@
+.column-b-left{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.logout-button {
+  background-color: #f2472d;
+  border: medium none;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Coda",cursive;
+  font-size: 14px;
+  font-weight: 800;
+  padding: 5px 5px;
+  transition: all 0.3s ease-in-out 0s;
+}
+
+.logout-button:hover{
+	background-color:#414141;
+	color: #ffffff;
+}
+
+.comments-list .children {
+  margin-left:100px;
+}
+
+.related-widget .entry-content .entry-comments a {
+  color: #f2472d;
+  display: inline-block;
+  font-family: "Coda",cursive;
+  font-size: 10px;
+  line-height: 18px;
+  margin-bottom: 5px;
+}
+
+.kopa-tag-box a{
+  background: rgba(0, 0, 0, 0) url("../images/background/pattern-3.png") repeat scroll 0 0;
+  display: inline-block;
+  line-height: 24px;
+  padding: 0 10px;
+}
+
+.column-b-left {
+  width:200px;
+}
+.column-b-right {
+  width:480px;
+}
+.one-third {
+  float:left;
+  width:353px;
+  margin-right:30px;
+}
+#logo-image {
+  margin-top:10px;
+}
